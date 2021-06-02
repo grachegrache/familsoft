@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 78,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/macpro/.android/build-cache/1d3fa3ac2e17c96350d69c8594e2a54c154ca624/output/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 78,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    }
+]

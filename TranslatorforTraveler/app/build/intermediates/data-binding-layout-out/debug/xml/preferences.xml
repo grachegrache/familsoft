@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.familsoft.tr4tr.translatorfortraveler.func.ColoredPreferenceCategory android:title="@string/pref_locale">
+        <ListPreference
+            android:defaultValue="en"
+            android:key="list_preference_trs_locale"
+            android:title="@string/pref_trs_locale" />
+    </com.familsoft.tr4tr.translatorfortraveler.func.ColoredPreferenceCategory>
+    <com.familsoft.tr4tr.translatorfortraveler.func.ColoredPreferenceCategory android:title="@string/pref_color">
+        <com.familsoft.tr4tr.translatorfortraveler.func.ColorPreference
+            android:defaultValue="#3f51b5"
+            android:key="preference_primary_color"
+            android:title="@string/pref_primary_color"/>
+        <com.familsoft.tr4tr.translatorfortraveler.func.ColorPreference
+            android:defaultValue="#303f9f"
+            android:key="preference_primary_dark_color"
+            android:title="@string/pref_primary_dark_color" />
+        <com.familsoft.tr4tr.translatorfortraveler.func.ColorPreference
+            android:defaultValue="#ff3f80"
+            android:key="preference_accent_color"
+            android:title="@string/pref_accent_color" />
+    </com.familsoft.tr4tr.translatorfortraveler.func.ColoredPreferenceCategory>
+</PreferenceScreen>

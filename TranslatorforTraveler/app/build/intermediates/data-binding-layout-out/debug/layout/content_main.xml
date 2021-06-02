@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="?android:attr/actionBarSize"
+        tools:context="com.familsoft.tr4tr.translatorfortraveler.MainActivity"
+        tools:showIn="@layout/app_bar_main" android:tag="layout/content_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <FrameLayout
+            android:id="@+id/framelayout_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+        </FrameLayout>
+    </android.support.constraint.ConstraintLayout>
+         

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macpro/.android/build-cache/1d3fa3ac2e17c96350d69c8594e2a54c154ca624/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4a7e5de81275e5a9106097d735f31f94c7f579b">
+        <dex dex="/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/pre-dexed/debug/classes_b71144d6b06ed1b9be5b943709c05e2b121c1318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macpro/Documents/TranslatorforTraveler/app/libs/icu4j-59_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f06e820cf4c8968bbbaae66ae0b33f6a256b57f">
+        <dex dex="/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/pre-dexed/debug/icu4j-59_1_0772b44d8b642c039a2d9d364a70f90620f51fcf.jar" />
+    </item>
+
+</items>

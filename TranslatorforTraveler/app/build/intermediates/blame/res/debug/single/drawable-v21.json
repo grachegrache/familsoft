@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/macpro/.android/build-cache/b38aaca3b11213cb583ba5c8ca87cd5a346a921a/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_delete_white_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macpro/.android/build-cache/4886c7189268120f25389df04d05cbb3ba780cf0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_keyboard_arrow_up_black_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_keyboard_arrow_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_keyboard_arrow_down_black_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_keyboard_arrow_down_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_add_white_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_more_vert_white_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_settings_black_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_edit_white_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/macpro/.android/build-cache/b38aaca3b11213cb583ba5c8ca87cd5a346a921a/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macpro/.android/build-cache/4886c7189268120f25389df04d05cbb3ba780cf0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macpro/.android/build-cache/4886c7189268120f25389df04d05cbb3ba780cf0/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_done_white_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/macpro/.android/build-cache/b38aaca3b11213cb583ba5c8ca87cd5a346a921a/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macpro/.android/build-cache/4886c7189268120f25389df04d05cbb3ba780cf0/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_bookmark_black_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_bookmark_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/macpro/.android/build-cache/b38aaca3b11213cb583ba5c8ca87cd5a346a921a/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_help_black_24dp.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_help_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macpro/Documents/TranslatorforTraveler/app/build/intermediates/res/merged/debug/drawable-v21/ic_t4t_app.png",
+        "source": "/Users/macpro/Documents/TranslatorforTraveler/app/src/main/res/drawable-v21/ic_t4t_app.png"
+    }
+]
