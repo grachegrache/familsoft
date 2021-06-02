@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A978CC9A-7491-7253-286F-63E1E9E5B875}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SocialTool.cs">
+    <Files>
+      <File FileName="Assets/Script/MainSceneManager.cs" Line="58" Column="102" />
+      <File FileName="Assets/Script/GameManager.cs" Line="64" Column="47" />
+      <File FileName="Assets/Script/DontDestroyManager.cs" Line="80" Column="3" />
+      <File FileName="Assets/Script/PlayBoardGameSceneManager.cs" Line="59" Column="15" />
+      <File FileName="Assets/Script/BlockGameScript.cs" Line="89" Column="4" />
+      <File FileName="Assets/Script/SoulPopUpManager.cs" Line="117" Column="28" />
+      <File FileName="Assets/Script/DragGalleryContentScript.cs" Line="116" Column="32" />
+      <File FileName="Assets/Script/BlurManager.cs" Line="25" Column="79" />
+      <File FileName="Assets/Script/LocalizeTool.cs" Line="41" Column="39" />
+      <File FileName="Assets/Resources/localizestring.xml" Line="9" Column="28" />
+      <File FileName="Assets/Script/SocialTool.cs" Line="242" Column="91" />
+      <File FileName="Assets/GooglePlayGames/BasicApi/SavedGame/ISavedGameClient.cs" Line="83" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Puzzle PreferredExecutionTarget="Unity.Editor" />
+</Properties>

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BDA7C92F-5801-6E00-18B4-8F4754BC6C34}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/SettingScript.cs">
+    <Files>
+      <File FileName="Assets/_Script/SettingScript.cs" Line="4648" Column="9" />
+      <File FileName="Assets/_Script/SocketScript.cs" Line="856" Column="1" />
+      <File FileName="Assets/_Script/LocalizationString.cs" Line="565" Column="20" />
+      <File FileName="Assets/_Script/SquareScript.cs" Line="556" Column="9" />
+      <File FileName="Assets/_Script/MainScript.cs" Line="272" Column="4" />
+      <File FileName="Assets/_Script/PROTOCOL.cs" Line="36" Column="25" />
+      <File FileName="Assets/_Script/BlindDateScript.cs" Line="141" Column="4" />
+      <File FileName="Assets/_Script/FootholdScript.cs" Line="172" Column="14" />
+      <File FileName="Assets/_Script/FishingScript.cs" Line="168" Column="17" />
+      <File FileName="Assets/_Script/DiceScript.cs" Line="16" Column="40" />
+      <File FileName="Assets/_Script/CharacterScript.cs" Line="204" Column="21" />
+      <File FileName="Assets/_Script/SlotScript.cs" Line="39" Column="47" />
+      <File FileName="Assets/_Script/SQLiteScript.cs" Line="606" Column="1" />
+      <File FileName="Assets/_Script/SimpleAES.cs" Line="42" Column="23" />
+      <File FileName="Assets/_Script/PianoScript.cs" Line="112" Column="51" />
+      <File FileName="Assets/_Script/MoveScript.cs" Line="93" Column="12" />
+      <File FileName="Assets/_Script/DelayedDeactivateScript.cs" Line="23" Column="5" />
+      <File FileName="Assets/_Script/HangmanScript.cs" Line="199" Column="78" />
+      <File FileName="Assets/_Script/FlowerScript.cs" Line="21" Column="42" />
+      <File FileName="Assets/_Script/KeyboardButton.cs" Line="7" Column="14" />
+      <File FileName="Assets/_Script/KeyboardScript.cs" Line="50" Column="24" />
+      <File FileName="Assets/_Script/DollScript.cs" Line="14" Column="80" />
+      <File FileName="Assets/SocketIO/JSONObject/JSONObject.cs" Line="62" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fortune_227s_220closet PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

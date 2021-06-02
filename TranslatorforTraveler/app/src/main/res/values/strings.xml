@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Translator for Traveler</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_addoredit">AddOrEdit</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_cvs_title">Adding a Conversation</string>
+    <string name="action_edit_cvs_title">Editing a Conversation</string>
+
+    <string name="dialog_add">Add</string>
+    <string name="dialog_remove">Remove</string>
+    <string name="dialog_bookmark">Bookmark</string>
+    <string name="dialog_bmk_title">Adding a Bookmark</string>
+    <string name="dialog_bmk_hint">Bookmark\'s name</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_delete_title">Removing the Conversation</string>
+    <string name="dialog_delete_msg">Do you remove this conversation?</string>
+    <string name="dialog_modify">Modify</string>
+    <string name="dialog_bmk_modify">Modifying the Bookmark\'s name</string>
+    <string name="dialog_delete_bmk_title">Removing the Bookmark</string>
+    <string name="dialog_delete_bmk_msg">Do you remove this bookmark?</string>
+
+    <string name="add_cvs">Conversation</string>
+    <string name="add_trs">Translation</string>
+    <string name="add_prn">Pronunciation</string>
+    <string name="err_msg_cvs">Enter the Conversation</string>
+    <string name="err_msg_trs">Enter the Translation</string>
+    <string name="err_msg_prn">Enter the Pronunciation</string>
+
+    <string name="package_name">com.familsoft.tr4tr.translatorfortraveler</string>
+
+    <string name="pref_locale">Locale</string>
+    <string name="pref_main_locale">Main Locale</string>
+    <string name="pref_trs_locale">Translation Locale</string>
+    <string name="pref_prn_locale">Pronunciation Locale</string>
+    <string name="pref_color">Color</string>
+    <string name="pref_primary_color">Primary Color</string>
+    <string name="pref_primary_dark_color">Primary Dark Color</string>
+    <string name="pref_accent_color">Accent Color</string>
+
+    <string name="info_set_all">Please input all factors.</string>
+</resources>

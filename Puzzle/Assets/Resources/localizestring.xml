@@ -1,0 +1,18 @@
+﻿<!--?xml version="1.0" encoding="UTF-8" standalone="yes"?-->
+
+<localize>
+    <localizestring language="en">
+    <didnt_complete>You didn't complete previous puzzle</didnt_complete>
+    <complete_board>You completed this board!</complete_board>
+    <msg_reset>Are you sure to reset this board?</msg_reset>
+    <msg_quit>Quit to press a back key</msg_quit>
+    <msg_achive_first_login>You've earned 100 cash!</msg_achive_first_login>
+    </localizestring>
+    <localizestring language="ko">
+    <didnt_complete>이전 퍼즐을 완성하지 않았습니다</didnt_complete>
+    <complete_board>이 퍼즐을 완성했습니다!</complete_board>
+    <msg_reset>이 보드를 리셋하시겠습니까?</msg_reset>
+    <msg_quit>뒤로 가기 버튼을 눌러 나가기</msg_quit>
+    <msg_achive_first_login>100개 보석을 얻었습니다!</msg_achive_first_login>
+    </localizestring>
+</localize>

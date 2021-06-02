@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BDA7C92F-5801-6E00-18B4-8F4754BC6C34}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/SettingScript.cs">
+    <Files>
+      <File FileName="Assets/_Script/SettingScript.cs" Line="3302" Column="9" />
+      <File FileName="Assets/_Script/LoginScript.cs" Line="251" Column="28" />
+      <File FileName="Assets/_Script/LocalizationString.cs" Line="256" Column="65" />
+      <File FileName="Assets/_Script/SocketScript.cs" Line="575" Column="45" />
+      <File FileName="Assets/_Script/SquareScript.cs" Line="125" Column="67" />
+      <File FileName="Assets/_Script/MainScript.cs" Line="305" Column="46" />
+      <File FileName="Assets/_Script/PROTOCOL.cs" Line="36" Column="28" />
+      <File FileName="Assets/_Script/BlindDateScript.cs" Line="141" Column="4" />
+      <File FileName="Assets/_Script/FootholdScript.cs" Line="195" Column="78" />
+      <File FileName="Assets/_Script/FishingScript.cs" Line="165" Column="43" />
+      <File FileName="Assets/_Script/DiceScript.cs" Line="349" Column="35" />
+      <File FileName="Assets/_Script/CharacterScript.cs" Line="269" Column="9" />
+      <File FileName="Assets/_Script/SlotScript.cs" Line="27" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fortune_227s_220closet PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
